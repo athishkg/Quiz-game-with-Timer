@@ -48,12 +48,6 @@ quiz-game-timer/
 - **CSS** 🎨 - Styling and layout
 - **JavaScript** ⚡ - Quiz logic and timer functionality
 
-## 🏆 Contributions
-We welcome contributions! Feel free to:
-- ⭐ Star this repository
-- 🐛 Report bugs via **Issues**
-- 🔥 Suggest new features
-- 📥 Submit a **Pull Request**
 
 
 
